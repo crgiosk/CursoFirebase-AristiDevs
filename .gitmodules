@@ -1,0 +1,3 @@
+[submodule "RealTimeBasico"]
+	path = RealTimeBasico
+	url = https://github.com/crgiosk/RealTimeBasico
