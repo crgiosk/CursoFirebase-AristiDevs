@@ -4,3 +4,6 @@
 [submodule "IntroduccionAFirebase"]
 	path = IntroduccionAFirebase
 	url = https://github.com/crgiosk/IntroduccionAFirebase
+[submodule "ChatZonaVE"]
+	path = ChatZonaVE
+	url = https://github.com/crgiosk/ChatZonaVE
